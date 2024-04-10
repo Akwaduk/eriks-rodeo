@@ -30,9 +30,9 @@ h1 {
     background: url('images/backdrop.jpg') no-repeat center center;
     color: white;
     padding: 70px;
-    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+    background-color: rgba(0, 0, 0, 0.8); /* Black with 50% opacity */
     background-blend-mode: multiply;
-    font-family: "Bungee Spice", sans-serif;
+    font-family: "Bungee Spice", sans-serif;    
 }
 
 div {
